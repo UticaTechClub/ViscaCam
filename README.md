@@ -1,1 +1,1 @@
-# ViscaCam Project
+# ViscaCam Project (Java)
